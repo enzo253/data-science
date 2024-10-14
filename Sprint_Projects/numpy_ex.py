@@ -96,6 +96,16 @@ dataset = np.column_stack((x1, x2))
 elements = dataset[:5]
 
 print(elements)
+
 print(correlation_coefficent)
+
+arr_02 = np.random.randint(0,50, size=(10,2))
+
+np.savetxt("arr_02.csv", arr_02, delimiter=',', header='x1,x2', comments='')
+
+loaded_arr = np.loadtxt('arr_02.csv', delimiter=',', skiprows=1)
+
+print(loaded_arr)
+
 
 
