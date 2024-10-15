@@ -21,7 +21,7 @@ df["Budget"] = df["Budget"].astype(int)
 
 df["Gross"] = df["Gross"].astype(int)
 
-df["Release Date"] = pd.to_datetime(df["Release Date"])
+df["Release Date"] = pd.to_datetime(df["Release Date"], errors='coerce')
 
 filtered_movies = df[(df["Rating"] > 7) & (df["Gross"] > 50_000_000)]
 
@@ -50,6 +50,10 @@ genre_counts = df["Genre"].value_counts()
 
 average_budget_by_genre = df.groupby("Genre")["Budget"].mean()
 
+most_favoured = df.groupby("Genre")["Rating"].mean()
+
+top = most_favoured.nlargest(5)
+
 highest_budget = average_budget_by_genre.idxmax(), average_budget_by_genre.max()
 
 lowest_budget = average_budget_by_genre.idxmin(), average_budget_by_genre.min()
@@ -62,5 +66,6 @@ print(top_rated_romance[['Title', 'Rating']])
 print(genre_counts)
 print(top_5_budget[['Title', 'Rating']])
 print(f'\n{lowest_budget}{highest_budget}')
-
-
+print(df.dtypes)
+print(top)
+print(df.tail(5))
