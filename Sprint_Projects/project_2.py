@@ -1,4 +1,5 @@
 import pandas as pd 
+import matplotlib.pyplot as plt
 
 red_wine = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv', delimiter=';')
 
@@ -57,6 +58,28 @@ categories=['low', 'medium', 'high'])
 both_wines = pd.concat([red_wine.describe(), white_wine.describe()], axis=1, keys=["Red Wines Stats", "White Wines Stats"])
 
 print(both_wines)
+
+red_wine_count = red_wine.shape[0]
+white_wine_count = white_wine.shape[0]
+
+
+labels = ['Red Wines', 'White Wines']
+sizes = [red_wine_count, white_wine_count]
+colors = ['#ff9999', '#66b3ff']
+
+
+plt.figure(figsize=(6, 6))
+plt.pie(sizes, labels=labels, colors=colors, autopct='%1.1f%%', startangle=90)
+plt.axis('equal')  
+plt.title('Quantity of Red Wines vs White Wines')
+
+plt.hist(red_wine["alcohol"], color = 'purple', bins = 15, alpha = 0.7)
+plt.title = "histogram of alcohol content"
+plt.xlabel = "alcohol percentage"
+plt.ylabel = "frequency"
+plt.grid(axis = "y", alpha = 0.7)
+plt.show()
+
 
 
 

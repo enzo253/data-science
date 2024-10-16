@@ -8,6 +8,10 @@ df["Rating"].fillna(value=df["Rating"].median(), inplace=True)
 
 df["Rating"].fillna(value=df["Rating Count"].median(), inplace=True)
 
+no_duplicates = df.drop_duplicates()
+
+print(no_duplicates)
+
 df["Genre"].fillna('', inplace=True)
 
 print(df.describe().to_string(line_width=100))
@@ -42,11 +46,11 @@ top_romance_date = df[(df["Genre"].str.contains("Romance")) & (df["Release Date"
 top_rated_romance = top_romance_date.nlargest(3, "Gross")
 print(df.head(5))
 
-top_5_expensive = df[(df["Budget"] & (df["Release Date"] > "1999-12-31"))]
+top_5_expensive = df[(df["Release Date"] > "1999-12-31")]
 
 top_budget = top_5_budget.nlargest(5, "Budget")
 
-genre_counts = df["Genre"].value_counts()
+genre_counts = len(df["Genre"].value_counts())
 
 average_budget_by_genre = df.groupby("Genre")["Budget"].mean()
 
@@ -63,6 +67,7 @@ print(animation_count)
 print(top_budget_names)
 print(top_rated_comedys[['Title', 'Rating']])
 print(top_rated_romance[['Title', 'Rating']])
+print("/n")
 print(genre_counts)
 print(top_5_budget[['Title', 'Rating']])
 print(f'\n{lowest_budget}{highest_budget}')
