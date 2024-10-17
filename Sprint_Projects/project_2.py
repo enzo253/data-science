@@ -1,5 +1,6 @@
 import pandas as pd 
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 red_wine = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv', delimiter=';')
 
@@ -73,13 +74,13 @@ plt.pie(sizes, labels=labels, colors=colors, autopct='%1.1f%%', startangle=90)
 plt.axis('equal')  
 plt.title('Quantity of Red Wines vs White Wines')
 
-plt.hist(red_wine["alcohol"], color = 'purple', bins = 15, alpha = 0.7)
-plt.title = "histogram of alcohol content"
-plt.xlabel = "alcohol percentage"
-plt.ylabel = "frequency"
-plt.grid(axis = "y", alpha = 0.7)
-plt.show()
 
+plt.figure(figsize=(10, 6))
+sns.histplot(data=red_wine, x='alcohol', bins=20, kde=True)
+plt.title('Distribution of Alcohol Content in Red Wine')
+plt.xlabel('Alcohol Content (%)')
+plt.ylabel('Frequency')
+plt.show()
 
 
 
