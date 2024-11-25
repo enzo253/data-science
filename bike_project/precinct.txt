@@ -1,0 +1,858 @@
+Precinct 129
+Precinct 37
+Precinct 129
+Precinct 82
+Precinct 129
+Precinct 73
+Precinct 68
+Precinct 22
+Precinct 129
+Precinct 37
+Precinct 142
+Precinct 74
+Precinct 49
+Precinct 88
+Precinct 23
+Precinct 129
+Precinct 36
+Precinct 82
+Precinct 39
+Precinct 17
+Precinct 17
+Precinct 39
+Precinct 21
+Precinct 22
+Precinct 22
+Precinct 73
+Precinct 17
+Precinct 68
+Precinct 22
+Precinct 67
+Precinct 129
+Precinct 91
+nan
+nan
+Precinct 81
+Precinct 91
+Precinct 82
+Precinct 17
+Precinct 22
+nan
+Precinct 129
+Precinct 23
+Precinct 129
+Precinct 129
+Precinct 91
+Precinct 129
+Precinct 36
+Precinct 36
+Precinct 39
+Precinct 129
+Precinct 61
+Precinct 41
+Precinct 41
+Precinct 16
+Precinct 16
+Precinct 17
+Precinct 48
+Precinct 22
+Precinct 54
+Precinct 61
+Precinct 114
+Precinct 129
+Precinct 17
+Precinct 47
+Precinct 48
+Precinct 86
+Precinct 23
+Precinct 23
+Precinct 81
+Precinct 36
+Precinct 129
+Precinct 17
+Precinct 17
+Precinct 16
+Precinct 22
+Precinct 129
+Precinct 87
+nan
+Precinct 129
+Precinct 129
+Precinct 114
+Precinct 35
+Precinct 39
+Precinct 140
+Precinct 16
+Precinct 15
+Precinct 2
+Precinct 17
+Precinct 17
+Precinct 15
+Precinct 48
+Precinct 129
+Precinct 15
+Precinct 2
+Precinct 17
+Precinct 2
+Precinct 17
+Precinct 17
+Precinct 70
+Precinct 14
+Precinct 14
+Precinct 17
+Precinct 72
+nan
+Precinct 24
+Precinct 2
+Precinct 80
+Precinct 2
+Precinct 17
+Precinct 17
+Precinct 116
+Precinct 2
+Precinct 17
+nan
+Precinct 130
+Precinct 1
+Precinct 131
+Precinct 83
+Precinct 131
+Precinct 1
+Precinct 83
+Precinct 131
+Precinct 131
+Precinct 131
+Precinct 19
+Precinct 127
+Precinct 19
+Precinct 126
+Precinct 44
+Precinct 131
+Precinct 25
+Precinct 2
+Precinct 17
+Precinct 14
+Precinct 25
+Precinct 2
+Precinct 2
+Precinct 2
+Precinct 2
+Precinct 2
+Precinct 2
+nan
+Precinct 2
+Precinct 2
+Precinct 2
+Precinct 14
+Precinct 2
+Precinct 2
+Precinct 4
+nan
+Precinct 4
+Precinct 72
+Precinct 70
+Precinct 4
+nan
+Precinct 83
+Precinct 127
+Precinct 130
+Precinct 75
+Precinct 26
+Precinct 5
+nan
+Precinct 6
+Precinct 5
+Precinct 12
+Precinct 107
+Precinct 6
+Precinct 11
+Precinct 33
+Precinct 11
+Precinct 89
+Precinct 20
+Precinct 90
+Precinct 83
+Precinct 143
+Precinct 83
+Precinct 131
+Precinct 131
+Precinct 83
+Precinct 131
+Precinct 59
+Precinct 89
+Precinct 65
+Precinct 110
+Precinct 10
+nan
+Precinct 8
+Precinct 142
+Precinct 20
+Precinct 143
+Precinct 142
+Precinct 89
+Precinct 76
+Precinct 142
+Precinct 131
+Precinct 142
+Precinct 127
+Precinct 75
+Precinct 142
+Precinct 1
+Precinct 129
+Precinct 124
+Precinct 105
+Precinct 143
+Precinct 1
+Precinct 56
+Precinct 76
+Precinct 143
+Precinct 64
+Precinct 96
+Precinct 83
+Precinct 83
+Precinct 143
+Precinct 142
+Precinct 129
+Precinct 18
+Precinct 74
+Precinct 21
+Precinct 137
+Precinct 137
+Precinct 137
+Precinct 85
+Precinct 143
+Precinct 85
+Precinct 90
+Precinct 82
+Precinct 82
+Precinct 129
+Precinct 83
+Precinct 18
+Precinct 37
+nan
+Precinct 129
+Precinct 56
+Precinct 45
+Precinct 129
+Precinct 35
+Precinct 123
+Precinct 120
+Precinct 10
+nan
+nan
+Precinct 101
+Precinct 101
+Precinct 112
+Precinct 119
+Precinct 140
+Precinct 111
+Precinct 111
+Precinct 8
+Precinct 8
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 102
+Precinct 98
+nan
+nan
+Precinct 79
+nan
+nan
+nan
+nan
+nan
+Precinct 109
+nan
+nan
+Precinct 50
+Precinct 5
+Precinct 24
+Precinct 25
+Precinct 136
+nan
+Precinct 76
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 35
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 25
+Precinct 38
+nan
+nan
+Precinct 83
+nan
+nan
+nan
+nan
+Precinct 120
+nan
+Precinct 33
+nan
+Precinct 27
+Precinct 50
+Precinct 27
+Precinct 14
+Precinct 33
+Precinct 34
+Precinct 1
+Precinct 18
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 84
+Precinct 93
+nan
+nan
+Precinct 95
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 89
+Precinct 90
+Precinct 75
+nan
+Precinct 74
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 110
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 32
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 19
+Precinct 139
+Precinct 114
+Precinct 44
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 76
+nan
+nan
+nan
+nan
+nan
+Precinct 5
+Precinct 58
+Precinct 49
+Precinct 62
+Precinct 54
+Precinct 37
+Precinct 56
+Precinct 38
+Precinct 61
+nan
+Precinct 37
+nan
+nan
+nan
+Precinct 113
+Precinct 114
+Precinct 140
+nan
+Precinct 45
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 129
+Precinct 127
+Precinct 74
+Precinct 7
+nan
+Precinct 35
+Precinct 2
+nan
+nan
+nan
+Precinct 142
+nan
+nan
+Precinct 129
+Precinct 129
+Precinct 68
+Precinct 68
+Precinct 126
+nan
+nan
+nan
+nan
+Precinct 64
+Precinct 55
+Precinct 100
+Precinct 100
+nan
+nan
+nan
+Precinct 3
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 127
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 80
+nan
+Precinct 142
+nan
+Precinct 40
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 129
+Precinct 86
+Precinct 75
+nan
+Precinct 125
+nan
+nan
+nan
+Precinct 9
+nan
+nan
+Precinct 83
+Precinct 131
+Precinct 5
+Precinct 74
+Precinct 140
+nan
+nan
+nan
+nan
+nan
+Precinct 142
+Precinct 142
+Precinct 142
+nan
+nan
+Precinct 113
+nan
+nan
+Precinct 79
+Precinct 85
+nan
+Precinct 28
+Precinct 85
+Precinct 14
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 129
+Precinct 133
+Precinct 99
+nan
+Precinct 116
+nan
+nan
+Precinct 78
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 99
+Precinct 98
+nan
+nan
+Precinct 77
+nan
+nan
+Precinct 57
+nan
+nan
+Precinct 3
+nan
+Precinct 141
+Precinct 4
+Precinct 1
+Precinct 131
+Precinct 1
+Precinct 19
+Precinct 18
+Precinct 10
+Precinct 129
+Precinct 76
+nan
+nan
+nan
+Precinct 83
+Precinct 75
+Precinct 1
+Precinct 83
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 129
+Precinct 80
+Precinct 80
+nan
+nan
+nan
+nan
+nan
+Precinct 44
+Precinct 41
+nan
+Precinct 133
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 114
+nan
+Precinct 6
+Precinct 91
+nan
+Precinct 131
+Precinct 127
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 107
+nan
+nan
+Precinct 6
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 17
+Precinct 72
+nan
+Precinct 75
+Precinct 72
+nan
+nan
+nan
+Precinct 106
+Precinct 106
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 81
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 129
+nan
+Precinct 124
+Precinct 125
+Precinct 71
+Precinct 139
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 119
+Precinct 80
+Precinct 118
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 63
+nan
+nan
+Precinct 75
+nan
+Precinct 32
+nan
+nan
+Precinct 17
+Precinct 5
+nan
+nan
+nan
+nan
+Precinct 78
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 2
+Precinct 142
+Precinct 76
+Precinct 121
+nan
+nan
+nan
+nan
+Precinct 121
+nan
+Precinct 33
+nan
+Precinct 17
+nan
+nan
+Precinct 3
+Precinct 2
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 9
+Precinct 128
+nan
+nan
+nan
+nan
+nan
+Precinct 127
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 2
+nan
+nan
+Precinct 8
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Precinct 32
+Precinct 31
+Precinct 29
+Precinct 5
+Precinct 29
+Precinct 29
+nan
+Precinct 26
+nan
+Precinct 106
+Precinct 30
