@@ -9,8 +9,8 @@ customer = csv[['Customer ID', 'Customer Name', 'Segment']].rename(
     columns={'Customer ID': 'CustomerID', 'Customer Name': 'CustomerName'}
 )
 
-addresses = csv[['City', 'State', 'Postal Code', 'Region']].rename(
-    columns={'Postal Code': 'PostalCode'}
+addresses = csv[['Customer ID', 'City', 'State', 'Postal Code', 'Region']].rename(
+    columns={'Customer ID': 'CustomerID', 'Postal Code': 'PostalCode'}
 )
 
 orders = csv[['Order ID', 'Customer ID', 'Order Date', 'Ship Date', 'Ship Mode']].rename(
@@ -28,6 +28,9 @@ order_details = csv[['Order ID', 'Product ID', 'Sales', 'Quantity', 'Discount', 
 
 customer_clean = customer.drop_duplicates()
 addresses_clean = addresses.drop_duplicates()
+addresses_clean['AddressID'] = range(1, len(addresses_clean) + 1)
+
+joint-table = Customer_clean.merge(addresses_clean, on='CustomerID', how='inner')[['CustomerID', 'AddressID']]
 
 # Connect to SQLite database
 conn = sqlite3.connect('SuperStore.db')
@@ -41,6 +44,7 @@ Segment TEXT
 ''')
 
 cursor.execute('''CREATE TABLE IF NOT EXISTS Addresses (
+AddressID INTEGER PRIMARY KEY AUTOINCREMENT,
 CustomerID TEXT,
 City TEXT,
 State TEXT,
@@ -81,6 +85,13 @@ FOREIGN KEY (ProductID) REFERENCES Products (ProductID)
 );
 ''')
 
+cursor.execute(''' CREATE TABLE IF NOT EXISTS Joint_table (
+CustomerID TEXT,
+AddressID INTEGER,
+PRIMARY KEY (CustomerID, AddressID)
+)
+''')
+
 customer_clean.to_sql('Customer', conn, if_exists='replace', index=False)
 
 addresses_clean.to_sql('Addresses', conn, if_exists='replace', index=False)
@@ -89,6 +100,6 @@ orders.to_sql('Orders', conn, if_exists='replace', index=False)
 
 products.to_sql('Products', conn, if_exists='replace', index=False)
 
-order_details.to_sql('Order_details', conn, if_exists='replace', index=False)
+order_details_clean.to_sql('Order_details', conn, if_exists='replace', index=False)
 
-
+joint-table.to_sql('Joint_table', conn, if_exists='replace', index=False)
